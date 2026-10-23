@@ -1,0 +1,6 @@
+{
+  "name": "MindCare AI",
+  "description": "AI-Powered Mental Wellness & Health Companion featuring holistic mood, stress, sleep, hydration, nutrition, and exercise tracking with clinical-quality screening reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
