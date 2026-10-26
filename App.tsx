@@ -17,7 +17,7 @@ import {
   initializeDemoData,
 } from './storage';
 // Views
-import { HomeView } from './views/HomeView';
+import { HomeView } from './HomeView';
 import { ChatbotView } from './views/ChatbotView';
 import { TrackerView } from './views/TrackerView';
 import { NutritionView } from './views/NutritionView';
