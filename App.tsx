@@ -15,8 +15,7 @@ import {
   getReport,
   saveReport,
   initializeDemoData,
-} from './utils/storage';
-
+} from './storage';
 // Views
 import { HomeView } from './views/HomeView';
 import { ChatbotView } from './views/ChatbotView';
